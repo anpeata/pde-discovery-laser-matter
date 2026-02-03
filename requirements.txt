@@ -1,0 +1,28 @@
+# Python Dependencies for PDE Discovery
+
+# Core numerical computing
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0,<2.0.0
+
+# Computer vision and image processing
+opencv-python>=4.5.0,<5.0.0
+
+# Machine learning and regression
+scikit-learn>=1.0.0,<2.0.0
+
+# Visualization
+matplotlib>=3.4.0,<4.0.0
+
+# Progress bars
+tqdm>=4.62.0,<5.0.0
+
+# Optional: Advanced optimization
+# pysindy>=1.7.0  # Uncomment for advanced SINDy features
+
+# Development dependencies (optional)
+# jupyter>=1.0.0
+# notebook>=6.4.0
+# ipykernel>=6.0.0
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
