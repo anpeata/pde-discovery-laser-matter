@@ -3,6 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Data-driven discovery of governing partial differential equations from experimental laser–matter interaction images using multiple sparse and regression-based approaches, supported by robust preprocessing pipelines.
+
 *Presented at the 15th SLEIGHT Science Event (SSE #15), Manutech-SLEIGHT Graduate School.*
 
 ## Quick Start
