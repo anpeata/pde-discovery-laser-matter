@@ -25,6 +25,10 @@ python examples/basic_usage.py
 - STRidge regression → Sparse coefficients
 - Multi-metric validation → Stability analysis
 
+## Data
+
+The experimental laser-matter interaction images are provided by **Laboratoire Hubert Curien** as part of the **MLDM Project course dataset**.
+
 ## Key Results
 
 ### Synthetic Benchmark (KS 2D)
